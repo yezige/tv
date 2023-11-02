@@ -4,7 +4,7 @@
   "urls": [
     // http://52bsj.vip:98/wuai
     {
-      "url": "https://raw.githubusercontent.com/yezige/tv/master/source/%E5%90%BE%E7%88%B1%E8%AF%84%E6%B5%8B.m3u",
+      "url": "https://raw.githubusercontent.com/yezige/tv/master/source/%E5%90%BE%E7%88%B1%E8%AF%84%E6%B5%8B.m3u.json",
       "name": "🐹吾爱线路"
     },
     // http://8.210.232.168/xc.json
@@ -19,18 +19,18 @@
     },
     // https://weixine.net/ysc.json
     {
-        "url": "https://raw.githubusercontent.com/yezige/tv/master/source/ysc.json",
-        "name": "🚀运输车(有跑马灯)"
+      "url": "https://raw.githubusercontent.com/yezige/tv/master/source/ysc.json",
+      "name": "🚀运输车(有跑马灯)"
     },
     // https://agit.ai/cyl518/yl/raw/branch/master/ml.json
     {
-        "url":"https://raw.githubusercontent.com/yezige/tv/master/source/py.json",
-        "name": "🏄️胖鸭线路-不推荐"
+      "url": "https://raw.githubusercontent.com/yezige/tv/master/source/py.json",
+      "name": "🏄️胖鸭线路-不推荐"
     },
     // https://freed.yuanhsing.cf/TVBox/meowcf.json
     {
-        "url":"https://raw.githubusercontent.com/yezige/tv/master/source/meowcf.json",
-        "name": "🏄️元兴线路-不推荐"
+      "url": "https://raw.githubusercontent.com/yezige/tv/master/source/meowcf.json",
+      "name": "🏄️元兴线路-不推荐"
     }
   ]
 }
